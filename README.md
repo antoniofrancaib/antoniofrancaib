@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @antoniofrancaib
-- 👀 I’m interested in Data Science, Machine Learning and AI 
-- 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on building up impactful projects
-- 📫 Reach me via either Twitter or Gmail: antoniofrancaib@gmail.com
+I am Antonio, an MPhil student in MLMI at Cambridge University 👋
+
+🏠 You can learn more about my work and publications at my website.
 
 <!---
 antoniofrancaib/antoniofrancaib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
