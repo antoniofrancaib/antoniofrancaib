@@ -1,4 +1,4 @@
-I am Antonio, an MPhil student in MLMI at Cambridge University 👋
+I am Antonio, an MPhil student in Machine Learning at Cambridge University 👋
 
 🏠 You can learn more about my work and publications at my [website](https://antoniofrancaib.github.io/). 
 
